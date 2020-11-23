@@ -18,6 +18,14 @@ int main()
 	{
 		printf("%f", a - b);
 	}
-	
+	else if(operand == '*')
+	{
+		printf("%f", a * b);
+	}
+	else if(operand == '/')
+	{
+		printf("%f", a / b);
+	}
+
 	return 0;
 }

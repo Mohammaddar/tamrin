@@ -8,6 +8,8 @@ int main()
 	double b;
 	char operand;
 
+	printf("Please insert your operation...");
+
 	scanf("%lf %c %lf", &a, &operand, &b);
 
 	if (operand == '+')

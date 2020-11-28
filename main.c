@@ -7,7 +7,7 @@ int main()
 	double a;
 	double b;
 	char operand;
-
+	//First
 	printf("Please insert your operation...");
 
 	scanf("%lf %c %lf", &a, &operand, &b);

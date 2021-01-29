@@ -24,6 +24,8 @@ int main()
 	{
 		printf("%f", a * b);
 	}
+	//app
+	//app
 	else if(operand == '/')
 	{
 		printf("%f", a / b);

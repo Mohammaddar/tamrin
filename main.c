@@ -25,6 +25,9 @@ int main()
 		printf("%f", a * b);
 	}
 	//app
+	srtTitleColor(red);
+	setBackground(bg.png);
+	setMargin(20);
 	//app
 	else if(operand == '/')
 	{
